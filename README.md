@@ -12,6 +12,7 @@
 + Database : MongoDB
 ------------------------
 #### 전공 프로젝트
+
 [창의코딩파이썬](https://github.com/kwj5584/2019_Creative_Coding_Python)
 + 원하는 도와 시를 선택 시 날씨를 알려주는 프로그램
 
@@ -22,6 +23,7 @@
 + Pytorch, CNN을 이용하여 강아지 품종 분류
 <hr/>
 #### 개인 프로젝트
+
 [Vue 게시판](https://github.com/kwj5584/Vue-board)
 + Vue, Node.js, MongoDB를 이용한 게시판
   + vuex를 이용한 자원관리.
