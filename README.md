@@ -35,7 +35,7 @@
     + Vue 게시판 구조 Refactoring
     + Functional Component, LifeCycle hook 사용
 
-  [React Youtube](https://github.com/kwj5584/React-Youtube)
+  [React-Youtube](https://github.com/kwj5584/React-Youtube)
   + React, Node.js, MongoDB를 이용한 Yotube페이지 클론코딩
     + Functional Component, LifeCycle hook 사용
 <hr/>
