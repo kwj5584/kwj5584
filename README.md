@@ -26,7 +26,7 @@
   + vuex를 이용한 자원관리.
   + ToastUI를 이용한 markdown형식의 게시판
 
-#### 개인 
+#### 개인 프로젝트
 [React 게시판](https://github.com/kwj5584/React-Board)
 + React, Node.js, MongoDB를 이용한 게시판
   + Vue 게시판 구조 Refactoring
