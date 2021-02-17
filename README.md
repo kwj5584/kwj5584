@@ -11,7 +11,7 @@
 + Framework : Node.js, React, Vue.js
 + Database : MongoDB
 ------------------------
-#### 프로젝트
+#### 전공 프로젝트
 [창의코딩파이썬](https://github.com/kwj5584/2019_Creative_Coding_Python)
 + 원하는 도와 시를 선택 시 날씨를 알려주는 프로그램
 
@@ -25,7 +25,8 @@
 + Vue, Node.js, MongoDB를 이용한 게시판
   + vuex를 이용한 자원관리.
   + ToastUI를 이용한 markdown형식의 게시판
- 
+
+#### 개인 
 [React 게시판](https://github.com/kwj5584/React-Board)
 + React, Node.js, MongoDB를 이용한 게시판
   + Vue 게시판 구조 Refactoring
