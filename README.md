@@ -22,6 +22,7 @@
 [딥러닝 기초](https://github.com/kwj5584/2020_Dog_Breed_Classification)
 + Pytorch, CNN을 이용하여 강아지 품종 분류
 <hr/>
+
 #### 개인 프로젝트
 
 [Vue 게시판](https://github.com/kwj5584/Vue-board)
