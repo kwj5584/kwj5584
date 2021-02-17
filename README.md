@@ -6,10 +6,14 @@
 + Github : github.com/kwj5584
 + Email : kvvj5584@gmail.com
 ---------------------------
-####Stack
+#### Stack
 + Language : Java, Javascript, C++, SQL
 + Framework : Node.js, React, Vue.js
 + Database : MongoDB
+------------------------
+#### 프로젝트
+<hr/>
+##### 2020년 캡스톤디자인 
 
 
 
