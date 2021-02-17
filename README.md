@@ -20,13 +20,13 @@
 
 [딥러닝 기초](https://github.com/kwj5584/2020_Dog_Breed_Classification)
 + Pytorch, CNN을 이용하여 강아지 품종 분류
-
+<hr/>
+#### 개인 프로젝트
 [Vue 게시판](https://github.com/kwj5584/Vue-board)
 + Vue, Node.js, MongoDB를 이용한 게시판
   + vuex를 이용한 자원관리.
   + ToastUI를 이용한 markdown형식의 게시판
 
-#### 개인 프로젝트
 [React 게시판](https://github.com/kwj5584/React-Board)
 + React, Node.js, MongoDB를 이용한 게시판
   + Vue 게시판 구조 Refactoring
