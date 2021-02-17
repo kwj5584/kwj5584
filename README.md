@@ -35,5 +35,5 @@
 + React, Node.js, MongoDB를 이용한 Yotube페이지 클론코딩
   + Functional Component, LifeCycle hook 사용
 <hr/>
-![kwj5584's github stats](https://github-readme-stats.vercel.app/api?username=kwj5584&show_icons=true)
-[![kwj5584's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kwj5584&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kwj5584)
+
+![kwj5584's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwj5584&show_icons=true)
