@@ -7,7 +7,7 @@
 + Email : kvvj5584@gmail.com
 ---------------------------
 #### Stack
-+ Language : Java, Javascript, C++, SQL
++ Language : Java, Javascript, SQL
 + Framework : Node.js, React, Vue.js
 + Database : MongoDB
 ------------------------
