@@ -9,7 +9,7 @@
 #### Stack
 + Language : Java, Javascript, SQL
 + Framework : Node.js, React, Vue.js
-+ Database : MongoDB
++ Database : MongoDB, MySQL
 ------------------------
 #### 전공 프로젝트
 
